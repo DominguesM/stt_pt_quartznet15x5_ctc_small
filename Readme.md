@@ -22,7 +22,7 @@ import nemo.collections.asr as nemo_asr
 asr_model = nemo_asr.models.ASRModel.from_pretrained("dominguesm/stt_pt_quartznet15x5_ctc_small")
 ```
 
-### ### Transcrição usando Python
+### Transcrição usando Python
 
 Primeiro, vamos fazer o download de um pequeno exemplo:
 
