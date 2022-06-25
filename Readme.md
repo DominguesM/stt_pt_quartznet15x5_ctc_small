@@ -111,6 +111,6 @@ Se você usar este trabalho, por favor, cite:
 }
 ```
 
-## References
+## Referencias
 
 [1] [NVIDIA NeMo Toolkit](https://github.com/NVIDIA/NeMo)
