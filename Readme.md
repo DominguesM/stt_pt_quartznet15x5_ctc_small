@@ -6,7 +6,7 @@ Este modelo transcreve a fala em letras minúsculas do alfabeto português junta
 
 ## NVIDIA NeMo: Treinamento
 
-Para treinar, ajustar ou brincar com o modelo, você precisará instalar o [NVIDIA NeMo](https://github.com/NVIDIA/NeMo). Recomendamos que você o instale depois de instalar a versão mais recente do Pytorch.
+Para treinar, ajustar ou brincar com o modelo, você precisará instalar o [NVIDIA NeMo](https://github.com/NVIDIA/NeMo). Recomendo que você o instale depois de instalar a versão mais recente do Pytorch.
 ```
 pip instalar nemo_toolkit['all']
 ```
