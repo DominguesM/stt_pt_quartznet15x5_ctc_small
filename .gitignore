@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.egg-info/
+coverage
+.coverage
+
+.DS_Store
+
+.pytest_cache
+.vscode
+
+.ipynb_checkpoints/
+*.zip
