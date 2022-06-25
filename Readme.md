@@ -102,8 +102,14 @@ Como esse modelo foi treinado em conjuntos de dados de fala disponíveis publica
 
 Se você usar este trabalho, por favor, cite:
 
-
-{% cite HuggingFace --file etc/citation.bib  %}
+```cite
+@misc{domingues2022quartznet15x15-small-portuguese,
+  title={Fine-tuned {Quartznet}-15x5 CTC small model for speech recognition in {P}ortuguese},
+  author={Domingues, Maicon},
+  howpublished={\url{https://huggingface.co/dominguesm/stt_pt_quartznet15x5_ctc_small}},
+  year={2022}
+}
+```
 
 ## References
 
