@@ -98,18 +98,6 @@ $ python scripts/speech_to_text_eval.py \
 
 Como esse modelo foi treinado em conjuntos de dados de fala disponíveis publicamente, o desempenho desse modelo pode ser degradado para fala que inclui termos técnicos ou vernáculo em que o modelo não foi treinado. O modelo também pode ter um desempenho pior para a fala acentuada.
 
-## Citação
-
-Se você usar este trabalho, por favor, cite:
-
-```cite
-@misc{domingues2022quartznet15x15-small-portuguese,
-  title={Fine-tuned {Quartznet}-15x5 CTC small model for speech recognition in {P}ortuguese},
-  author={Domingues, Maicon},
-  howpublished={\url{https://huggingface.co/dominguesm/stt_pt_quartznet15x5_ctc_small}},
-  year={2022}
-}
-```
 
 ## Referencias
 
